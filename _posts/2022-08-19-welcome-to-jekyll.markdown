@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Coding Practice 01"
 date:   2022-08-19 17:16:57 +1000
 categories: jekyll update
 ---
