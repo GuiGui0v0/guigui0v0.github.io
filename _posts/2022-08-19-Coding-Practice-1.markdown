@@ -5,7 +5,7 @@ date:   2022-08-19 17:16:57 +1000
 categories: jekyll update
 ---
 ### P5 Sketch
-<iframe width=400 height=442 src="https://editor.p5js.org/GuiGui0v0/full/9FfcY_8gy"></iframe>
+<iframe width=500 height=500 src="https://editor.p5js.org/GuiGui0v0/full/9FfcY_8gy"></iframe>
 
 ### Code Comments
 
@@ -104,12 +104,4 @@ function draw() {
 {% endhighlight %}
 
 ### Reference
-
-
-
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Here are some reference videos and pictures for the production project
