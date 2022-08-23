@@ -5,7 +5,7 @@ date:   2022-08-20 17:16:57 +1000
 categories: jekyll update
 ---
 ### P5 Sketch
-<iframe width=500 height=500 src="https://editor.p5js.org/GuiGui0v0/full/p9fkgsD6W"> </iframe>
+<iframe width=600 height=600 src="https://editor.p5js.org/GuiGui0v0/full/p9fkgsD6W"> </iframe>
 
 ### Code Comments
 
@@ -61,4 +61,4 @@ function draw() { //loops, after setup has run
 
 ### Reference
 Here are some reference videos and pictures for the production project
-<iframe width=500 height=500 src="https://openprocessing.org/sketch/422446"> </iframe>
+<iframe width=500 height=500 src="https://coderdojo-nijmegen.nl/instructies/p5.js-art/"> </iframe>
