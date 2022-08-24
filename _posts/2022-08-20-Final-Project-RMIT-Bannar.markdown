@@ -154,7 +154,9 @@ text (`Specialisation`, width / 2, 250);
 
 ### Reference
 Here are some reference videos and pictures for the production project
-[Bannar moondboard pic](https://www.freepik.com/free-vector/abstract-red-halftone-white-banner-design_7197936.htm#query=red%20dot&position=47&from_view=keyword)
-[Bannar moondboard pic](https://www.freepik.com/free-vector/red-wavy-halftone-background_15681043.htm#query=red%20point&position=4&from_view=search)
-[Text Resource](https://fontmeme.com/fonts/futuristic-fonts-collection/)
+-[Bannar moondboard pic](https://www.freepik.com/free-vector/abstract-red-halftone-white-banner-design_7197936.htm#query=red%20dot&position=47&from_view=keyword)
+
+-[Bannar moondboard pic](https://www.freepik.com/free-vector/red-wavy-halftone-background_15681043.htm#query=red%20point&position=4&from_view=search)
+
+-[Text Resource](https://fontmeme.com/fonts/futuristic-fonts-collection/)
 
