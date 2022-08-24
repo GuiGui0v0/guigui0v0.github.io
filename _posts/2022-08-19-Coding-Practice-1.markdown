@@ -11,9 +11,7 @@ I want to show the pattern effect as a background in the final project. Based on
 
 ### Concept
 
-<iframe width=500 height=500 src="https://www.youtube.com/watch?v=sj8Sg8qnjOg"></iframe>
-
-A design system built using the golden ratio. Filled with incredibly gorgeous typography, colors of breathtaking scale. By using the same design principles found in nature and in our most beautiful works of art and architecture, we will have everything you need to build a balanced, harmonious design every time.  
+[The Golden Ratio (why it is so irrational) - Numberphile](https://www.youtube.com/watch?v=sj8Sg8qnjOg) （Reference Video）A design system built using the golden ratio. Filled with incredibly gorgeous typography, colors of breathtaking scale. By using the same design principles found in nature and in our most beautiful works of art and architecture, we will have everything you need to build a balanced, harmonious design every time.  
 
 ### Code Comments
 
