@@ -7,6 +7,10 @@ categories: jekyll update
 ### P5 Sketch
 <iframe width=600 height=400 src="https://editor.p5js.org/GuiGui0v0/full/uoZmPl8K_"></iframe>
 
+### Concept
+
+The design of the final project is based on the theme of "Interstellar Adventure", which simulates the connection between the boundless universe and the tangible space from the running trajectory of points. In the vast universe, an interstellar expedition with "Starting Interstellar" and "Future Shuttle Journey" is quietly being staged. Clouds of interstellar dust particles and dense gas began a new era of elemental creation. In the alternate segments where the illusions overlap, people feel like they are placed in a cosmic field.
+
 ```
 {
 const x = 0.5 + cos(a * TWO_PI) * dist;
@@ -189,6 +193,8 @@ Here are some reference videos and pictures for the production project
 -[Bannar moondboard pic](https://www.freepik.com/free-vector/abstract-red-halftone-white-banner-design_7197936.htm#query=red%20dot&position=47&from_view=keyword)
 
 -[Bannar moondboard pic](https://www.freepik.com/free-vector/red-wavy-halftone-background_15681043.htm#query=red%20point&position=4&from_view=search)
+
+-[Bannar moondboard pic](https://www.deviantart.com/crazysmiley/art/Star-Wars-8734958)
 
 -[Text Resource](https://fontmeme.com/fonts/futuristic-fonts-collection/)
 
