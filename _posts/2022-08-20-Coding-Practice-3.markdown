@@ -7,6 +7,8 @@ categories: jekyll update
 ### P5 Sketch
 <iframe width=500 height=500 src="https://editor.p5js.org/GuiGui0v0/full/2wX_FRQzK"> </iframe>
 
+I wanted to combine the design between the pattern and the interval, considering showing the letters of RMIT in the final project
+
 ### Code Comments
 Here the two core functions of processing are implemented: setup and drawing. By defining the canvas size and assigning values to the locations of our start and end points.
 <iframe width=900 height=400 src="https://www.alpharithms.com/wp-content/uploads/2049/step-1-create-a-line.jpg"> </iframe>

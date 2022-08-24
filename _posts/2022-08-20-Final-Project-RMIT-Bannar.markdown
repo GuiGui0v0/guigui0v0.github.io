@@ -7,6 +7,8 @@ categories: jekyll update
 ### P5 Sketch
 <iframe width=600 height=400 src="https://editor.p5js.org/GuiGui0v0/full/uoZmPl8K_"></iframe>"> </iframe>
 
+Based on the exercise project, the function was adjusted, the pattern was adjusted to be displayed horizontally, and the wave points were amplified to create an interstellar sense of the universe. Adjust the colors to red close to the RMIT color as well as navy blue, with bright yellow and white to highlight the title font.
+
 ### Code Comments
 
 {% highlight ruby %}
