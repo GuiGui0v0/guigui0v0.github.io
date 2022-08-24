@@ -12,6 +12,12 @@ const y = 0.5 + tan(a * TWO_PI) * dist;'
 
 Based on the exercise project, the function was adjusted, the pattern was adjusted to be displayed horizontally.The wave points were amplified to create an interstellar sense of the universe. 
 
+'const hue = fract(f * 5 + t);
+const sat = 0.1;
+const light =0.2;
+const clr = color(hue, sat, light);
+fill(clr);
+circle(x, y, r);'
 
 Adjust the colors to red close to the RMIT color as well as navy blue, with bright yellow and white to highlight the title font.
 
@@ -19,7 +25,7 @@ Adjust the colors to red close to the RMIT color as well as navy blue, with brig
 function preload(){
  font1=loadFont("Boldfinger.ttf");
  font2=loadFont("armedlightninghalf.ttf");'
- 
+
 Choose to display RMIT with a bold, rounded bold, and then use armedlightninghalf to highlight the three-dimensional feel of the 'Creative Coding' and 'Specialisation' fonts
  
 
