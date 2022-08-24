@@ -66,4 +66,7 @@ function draw(){
 
 ### Reference
 Here are some reference videos and pictures for the production project
-<iframe width=600 height=300 src="https://10print.org/"> </iframe>
+
+-[Color Resource](https://www.w3schools.com/colors/colors_groups.asp)
+-[Book Resource](https://10print.org/)
+-[Tutorial Video](https://www.youtube.com/watch?v=bEyTZ5ZZxZs&t=59s)

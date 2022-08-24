@@ -161,3 +161,4 @@ Here are some reference videos and pictures for the production project
 
 -[Text Resource](https://fontmeme.com/fonts/futuristic-fonts-collection/)
 
+-[Color Resource](https://www.w3schools.com/colors/colors_groups.asp)

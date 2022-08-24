@@ -61,4 +61,6 @@ function draw() { //loops, after setup has run
 
 ### Reference
 Here are some reference videos and pictures for the production project
-<iframe width=500 height=500 src="https://coderdojo-nijmegen.nl/instructies/p5.js-art/"> </iframe>
+
+-[Tutorial Video]
+-[Resource] (https://coderdojo-nijmegen.nl/instructies/p5.js-art/)

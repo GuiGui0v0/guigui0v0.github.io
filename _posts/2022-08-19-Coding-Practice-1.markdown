@@ -105,5 +105,9 @@ function draw() {
 
 ### Reference
 Here are some reference videos and pictures for the production project
-<iframe width=500 height=500 src="https://www.youtube.com/watch?v=RrSOv9FH6uo"></iframe>
+
+-[Color Resource](https://www.w3schools.com/colors/colors_groups.asp)
+-[Tutorial Video](https://www.w3schools.com/colors/colors_groups.asp)
+
+
 
