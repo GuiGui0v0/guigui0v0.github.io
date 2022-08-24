@@ -64,4 +64,4 @@ Here are some reference videos and pictures for the production project
 
 -[Color Resource](https://www.w3schools.com/colors/colors_groups.asp)
 
--[Resource] (https://coderdojo-nijmegen.nl/instructies/p5.js-art/)
+-[Resource] (https://coderdojo-nijmegen.nl/instructies/p5.js-art)
