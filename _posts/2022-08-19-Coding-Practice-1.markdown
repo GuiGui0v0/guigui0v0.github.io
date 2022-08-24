@@ -7,7 +7,13 @@ categories: jekyll update
 ### P5 Sketch
 <iframe width=500 height=500 src="https://editor.p5js.org/GuiGui0v0/full/9FfcY_8gy"></iframe>
 
-I want to show the pattern effect as a background in the final project. 
+I want to show the pattern effect as a background in the final project. Based on the original tutorial, the parameters have been adjusted and changed to create a splendid and spectacular effect of jacaranda.
+
+### Concept
+
+<iframe width=500 height=500 src="https://www.youtube.com/watch?v=sj8Sg8qnjOg"></iframe>
+
+A design system built using the golden ratio. Filled with incredibly gorgeous typography, colors of breathtaking scale. By using the same design principles found in nature and in our most beautiful works of art and architecture, we will have everything you need to build a balanced, harmonious design every time.  
 
 ### Code Comments
 
