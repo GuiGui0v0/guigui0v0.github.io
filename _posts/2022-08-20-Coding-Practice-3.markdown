@@ -74,3 +74,6 @@ Here are some reference videos and pictures for the production project
 -[Book Resource](https://10print.org/)
 
 -[Tutorial Video](https://www.youtube.com/watch?v=bEyTZ5ZZxZs&t=59s)
+
+-[Tutorial Video](https://www.youtube.com/watch?v=m9joBLOZVEo&t=58s)
+
