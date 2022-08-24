@@ -9,7 +9,8 @@ categories: jekyll update
 
 ### Code Comments
 Here the two core functions of processing are implemented: setup and drawing. By defining the canvas size and assigning values to the locations of our start and end points.
-<iframe width=200 height=500 src="https://www.alpharithms.com/wp-content/uploads/2049/step-1-create-a-line.jpg"> </iframe>
+<iframe width=600 height=500 src="https://www.alpharithms.com/wp-content/uploads/2049/step-1-create-a-line.jpg"> </iframe>
+
 
 {% highlight ruby %}
 let x=0;
