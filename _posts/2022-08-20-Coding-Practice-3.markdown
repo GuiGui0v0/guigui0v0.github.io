@@ -9,7 +9,7 @@ categories: jekyll update
 
 ### Code Comments
 Here the two core functions of processing are implemented: setup and drawing. By defining the canvas size and assigning values to the locations of our start and end points.
-<iframe width=600 height=500 src="https://www.alpharithms.com/wp-content/uploads/2049/step-1-create-a-line.jpg"> </iframe>
+<iframe width=900 height=500 src="https://www.alpharithms.com/wp-content/uploads/2049/step-1-create-a-line.jpg"> </iframe>
 
 
 {% highlight ruby %}
@@ -66,4 +66,4 @@ function draw(){
 
 ### Reference
 Here are some reference videos and pictures for the production project
-<iframe width=200 height=500 src="https://www.youtube.com/watch?v=bEyTZ5ZZxZs&t=59s"> </iframe>
+<iframe width=600 height=300 src="https://www.youtube.com/watch?v=bEyTZ5ZZxZs&t=59s"> </iframe>
