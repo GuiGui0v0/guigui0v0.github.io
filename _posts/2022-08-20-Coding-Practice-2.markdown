@@ -7,6 +7,14 @@ categories: jekyll update
 ### P5 Sketch
 <iframe width=600 height=600 src="https://editor.p5js.org/GuiGui0v0/full/p9fkgsD6W"> </iframe>
 
+The main thing the tutorial is doing is to draw a circle. The parameters of the circle are drawn using the RADIUS mode (r is the radius of the circle) to draw the circle, and the radius r of the circle is the parameter involved in the circle. The position is also a parameter involved in the circle, and the circle is the core parameter, you can see
+
+```
+{
+circle= 200 + 100*sin(millis()*freq*i);
+}
+```
+
 ### Code Comments
 
 {% highlight ruby %}
