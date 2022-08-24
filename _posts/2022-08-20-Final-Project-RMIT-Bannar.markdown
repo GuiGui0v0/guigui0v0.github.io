@@ -5,7 +5,7 @@ date:   2022-08-20 17:16:57 +1000
 categories: jekyll update
 ---
 ### P5 Sketch
-<iframe width=600 height=400 src="https://editor.p5js.org/GuiGui0v0/full/uoZmPl8K_"></iframe>"> 
+<iframe width=600 height=400 src="https://editor.p5js.org/GuiGui0v0/full/uoZmPl8K_"></iframe>
 
 ```
 {
