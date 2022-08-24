@@ -66,4 +66,4 @@ function draw(){
 
 ### Reference
 Here are some reference videos and pictures for the production project
-<iframe width=600 height=300 src="https://www.alpharithms.com/how-to-draw-a-squiggly-line-in-p5js-or-processing-120715/"> </iframe>
+<iframe width=600 height=300 src="https://10print.org/"> </iframe>
