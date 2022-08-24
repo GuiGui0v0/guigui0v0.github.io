@@ -7,12 +7,13 @@ categories: jekyll update
 ### P5 Sketch
 <iframe width=500 height=500 src="https://editor.p5js.org/GuiGui0v0/full/2wX_FRQzK"> </iframe>
 
-I wanted to combine the design between the pattern and the interval, considering showing the letters of RMIT in the final project
+### Concept
+
+The project's concept shows that "simple things can create complex patterns". 
+Random maze generator in one line of Commodore 64 Basic [10 PRINT CHR$](https://www.youtube.com/watch?v=m9joBLOZVEo&t=58s) as presented by Casey Reas at the Eyeo Festival in Minneapolis, Minnesota in June 2011. The program uses the PETSCII character set, specifically 205.5 line character codes, plus random 1s or 0s, alternating between the / and \ characters, and then repeats without causing line breaks. I wanted to combine the design between the pattern and the interval, considering showing the letters of RMIT in the final project
+
 
 ### Code Comments
-Here the two core functions of processing are implemented: setup and drawing. By defining the canvas size and assigning values to the locations of our start and end points.
-<iframe width=900 height=400 src="https://www.alpharithms.com/wp-content/uploads/2049/step-1-create-a-line.jpg"> </iframe>
-
 
 {% highlight ruby %}
 let x=0;
