@@ -62,5 +62,6 @@ function draw() { //loops, after setup has run
 ### Reference
 Here are some reference videos and pictures for the production project
 
--[Tutorial Video]
+-[Color Resource](https://www.w3schools.com/colors/colors_groups.asp)
+
 -[Resource] (https://coderdojo-nijmegen.nl/instructies/p5.js-art/)
