@@ -31,3 +31,4 @@ function mouseClicked() {
 		song.play()
 	}
 }
+
