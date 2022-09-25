@@ -43,4 +43,12 @@ function draw(){
   co=co+.005;
 }
 
-  {% endhighlight %}
+{% endhighlight %}
+
+### Reference
+Here are some reference videos and pictures for the production project
+
+-[Color Resource](https://www.w3schools.com/colors/colors_groups.asp)
+
+-[Tutorial Video](https://www.youtube.com/watch?v=9LLFt80_unY&list=PLA4rGu8NPxE_VigzfGujzrJf9LZv7tx_I&index=14)
+
