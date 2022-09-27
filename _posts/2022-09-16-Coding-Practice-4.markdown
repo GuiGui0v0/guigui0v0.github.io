@@ -8,6 +8,7 @@ categories: jekyll update
 <iframe width=800 height=800 src="https://editor.p5js.org/GuiGui0v0/full/MLtknlFC3"></iframe>
 
 ### Concept  
+Create a perfect visual project by drawing graphics with lines. Color choices are low-saturated colors. The colors will gradually change as the pattern is fully drawn. The overall pattern generation of the project is formed by the superposition of lines.
 
 ### Code Comments
 
@@ -48,5 +49,6 @@ function draw(){
 Here are some reference videos and pictures for the production project
 
 -[Color Resource](https://www.w3schools.com/colors/colors_groups.asp)
+
 -[Tutorial Video](https://www.youtube.com/watch?v=9LLFt80_unY&list=PLA4rGu8NPxE_VigzfGujzrJf9LZv7tx_I&index=14)
 
