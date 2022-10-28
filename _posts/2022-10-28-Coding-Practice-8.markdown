@@ -8,7 +8,7 @@ categories: jekyll update
 <iframe width=800 height=800 src="https://editor.p5js.org/GuiGui0v0/full/RTjCPIcGS"></iframe>
 
 ### Concept  
-My inspiration for this project comes from the trajectory of the dog chasing the ball. By displaying the work like a yoyo ball, I hope it can be used in the final project, and also considering that the dog likes yellow to create a tail for the circle in the previous project to form a drag shape ideas.
+My inspiration for this project comes from the trajectory of the dog chasing the ball. By displaying the work like a yoyo ball, I hope it can be used in the final project, and also considering that the dogs like yellow to create a tail for the circle in the previous project to form a drag shape ideas. 
 
 ### Code Comments
 
