@@ -8,7 +8,7 @@ categories: jekyll update
 <iframe width=800 height=800 src="https://editor.p5js.org/GuiGui0v0/full/-hgfmVVMz"></iframe>
 
 ### Concept  
-This project transforms the circle into a fast-changing flat figure through the change of frame number, which can produce a series of visual interactions with the viewer. The reference shape is a fill() slow-moving circle, which is visually striking by changing the movement speed and fill and color changes, but not much interactive content.
+This project transforms the circle into a fast-changing flat figure through the change of frame number, which can produce a series of visual interactions with the viewer. The reference shape is a fill() slow-moving circle, which is visually striking by changing the movement speed and fill and color changes, but not much interactive content
 
 ### Code Comments
 

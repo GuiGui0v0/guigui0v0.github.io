@@ -8,7 +8,7 @@ categories: jekyll update
 <iframe width=800 height=800 src="https://editor.p5js.org/GuiGui0v0/full/RTjCPIcGS"></iframe>
 
 ### Concept  
-I wanted to create a dragging shape for the tail by giving the circle the idea of puppies chasing their own tails. Making the circle increase stay in place will always keep the number in hope to maintain the puppy's attention can be used in the final project.This project is suitable for interacting with humans, it is difficult to interact with animals because it is difficult for them to touch the trackpad and click the buttons to interact.
+I wanted to create a dragging shape for the tail by giving the circle the idea of puppies chasing their own tails. Making the circle increase stay in place will always keep the number in hope to maintain the puppy's attention can be used in the final project.This project is suitable for interacting with humans, it is difficult to interact with animals because it is difficult for them to touch the trackpad and click the buttons to interact
 
 ### Code Comments
 

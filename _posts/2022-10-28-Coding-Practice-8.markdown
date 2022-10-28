@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: post
 title:  "Coding Practice 08"
