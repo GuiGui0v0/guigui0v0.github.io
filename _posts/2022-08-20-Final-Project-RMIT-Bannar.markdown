@@ -9,7 +9,7 @@ categories: jekyll update
 
 ### Concept
 
-The design of the final project is based on the theme of "Interstellar Adventure", which simulates the connection between the boundless universe and the tangible space from the running trajectory of points. In the vast universe, an interstellar expedition with "Starting Interstellar" and "Future Shuttle Journey" is quietly being staged. Clouds of interstellar dust particles and dense gas began a new era of elemental creation. In the alternate segments where the illusions overlap, people feel like they are placed in a cosmic field
+The design of the final project is based on the theme of "Interstellar Adventure", which simulates the connection between the boundless universe and the tangible space from the running trajectory of points. In the vast universe, an interstellar expedition with "Starting Interstellar" and "Future Shuttle Journey" is quietly being staged. Clouds of interstellar dust particles and dense gas began a new era of elemental creation. In the alternate segments where the illusions overlap, people feel like they are placed in a cosmic field.
 
 ```
 {

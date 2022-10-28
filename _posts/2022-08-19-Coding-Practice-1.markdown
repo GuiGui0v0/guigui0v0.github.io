@@ -7,7 +7,7 @@ categories: jekyll update
 ### P5 Sketch
 <iframe width=500 height=500 src="https://editor.p5js.org/GuiGui0v0/full/9FfcY_8gy"></iframe>
 
-I want to show the pattern effect as a background in the final project. Based on the original tutorial, the parameters have been adjusted and changed to create a splendid and spectacular effect of jacaranda
+I want to show the pattern effect as a background in the final project. Based on the original tutorial, the parameters have been adjusted and changed to create a splendid and spectacular effect of jacaranda.
 
 ### Concept
 
